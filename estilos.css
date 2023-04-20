@@ -1,0 +1,23 @@
+h1 {color:black}
+        p {color: black 
+}
+body {
+    background-color: rgb(183, 184, 231) 
+}
+
+div.small 
+{   
+    height: 270px;
+    color: red;
+    background-image: url("imagenes/índice.jpeg");
+    background-position: right center;
+    background-repeat: repeat-y;
+}
+
+div.foto
+{
+    height: 170px;
+    width: 100;
+    position: relative;
+}
+    
